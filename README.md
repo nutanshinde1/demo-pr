@@ -1,2 +1,2 @@
 # demo-pr
-Just a demo for learning Pull Request
+Demo for learning Pull Request
